@@ -1,0 +1,26 @@
+body{
+    background-color: #23895d;
+}
+
+h1{
+    color:#7fd677;
+    font-size: 45px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    padding: 25px 25px 25px 25px;
+}
+
+h1, ul {
+    font-family: Verdana, Tahoma, sans-serif;
+    text-align: center;
+}
+
+a{
+    color: #eadb87;
+    font-size: 20px;
+}

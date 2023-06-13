@@ -1,0 +1,28 @@
+body{
+    background-color: #9e83db;
+}
+
+h1{
+    font-size: 45px;
+}
+
+h2, h3{
+    font-size: 30px;
+}
+
+h1, h2, h3 {
+    color:#eadb87;
+}
+
+h1, h2, h3, ul, ol, p {
+    font-family: Verdana, Tahoma, sans-serif;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 25px 25px 25px 25px;
+}
